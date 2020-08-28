@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DarkMode</string>
+    <string name="title">Titulo</string>
+    <string name="description">Descricao</string>
+    <string name="theme">Tema</string>
+    <string name="clear">Claro</string>
+    <string name="dark">Escuro</string>
+    <string name="description_theme">Habilitar/Desabilitar o tema escuro.</string>
+    <string name="dark_mode">Tema Escuro</string>
+    <string name="dark_message">Ativar/desativar o modo escuro requer que a interface do usuário do aplicativo seja reiniciada! Você quer continuar?</string>
+    <string name="yes">Sim</string>
+    <string name="No">Não</string>
+</resources>
